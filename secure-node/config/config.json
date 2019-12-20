@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "magda",
+    "password": "magda",
+    "database": "news",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "magda",
+    "password": "magda",
+    "database": "news",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "magda",
+    "password": "magda",
+    "database": "news",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
